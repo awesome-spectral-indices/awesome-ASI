@@ -10,7 +10,9 @@
 - [Google Earth Engine](#google-earth-engine)
 - [Apps](#apps)
 - [YouTube](#youtube)
+- [Podcasts](#podcasts)
 - [Blogs](#blogs)
+- [Datasets](#datasets)
 - [Papers](#papers)
 
 -----------------------------------
@@ -79,6 +81,12 @@
 
 -----------------------------------
 
+## Podcasts
+
+- [Scene From Above | S11E2: Disruption](https://scenefromabove.podbean.com/e/s11e2-disruption/)
+
+-----------------------------------
+
 ## Blogs
 
 - [geodose | How to Calculate Various Spectral Indices in Google Earth Engine Quickly](https://www.geodose.com/2022/10/how-to-calculate-various-spectral-indices-gee-quick.html)
@@ -87,6 +95,21 @@
 
 -----------------------------------
 
+## Datasets
+
+- [UniNa - Machine Learning 22/23 - MiniContest n1 | Above Ground Biomass estimation from Sentinel-2](https://www.kaggle.com/competitions/unina-machine-learning-2223/data)
+
+-----------------------------------
+
 ## Papers
 
+### Official Papers
+
 - [spectral: Awesome Spectral Indices deployed via the Google Earth Engine JavaScript API](https://doi.org/10.5194/isprs-archives-XLVIII-4-W1-2022-301-2022) - **How to cite.** Montero, D., Aybar, C., Mahecha, M. D., and Wieneke, S.: SPECTRAL: AWESOME SPECTRAL INDICES DEPLOYED VIA THE GOOGLE EARTH ENGINE JAVASCRIPT API, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-4/W1-2022, 301–306, https://doi.org/10.5194/isprs-archives-XLVIII-4-W1-2022-301-2022, 2022.
+
+### ASI Citations
+
+- [Deep Learning on Synthetic Data Enables the Automatic
+Identification of Deficient Forested Windbreaks in the
+Paraguayan Chaco](https://doi.org/10.3390/rs14174327) - **How to cite.** Kriese, J.; Hoeser, T.; Asam, S.; Kacic, P.; Da Ponte, E.; Gessner, U. Deep Learning on Synthetic Data Enables the Automatic Identification of Deficient Forested Windbreaks in the Paraguayan Chaco. Remote Sens. 2022, 14, 4327. https://doi.org/10.3390/rs14174327
+- [BUSINESS INTELLIGENCE THROUGH MACHINE LEARNING FROM SATELLITE REMOTE SENSING DATA](https://ir.lib.uth.gr/xmlui/bitstream/handle/11615/59406/25458.pdf) - **How to cite.** Kyriakos, C. 2022. BUSINESS INTELLIGENCE THROUGH MACHINE LEARNING FROM SATELLITE REMOTE SENSING DATA. Diploma Thesis, University of Thessaly.
