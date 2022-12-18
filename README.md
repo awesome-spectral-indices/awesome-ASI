@@ -10,6 +10,7 @@
 - [Google Earth Engine](#google-earth-engine)
 - [Apps](#apps)
 - [YouTube](#youtube)
+- [Tutorials](#tutorials)
 - [Podcasts](#podcasts)
 - [Blogs](#blogs)
 - [Datasets](#datasets)
@@ -78,6 +79,41 @@
 - [Open Source Remote Sensing & GIS | GEE tutorial 3: Compute multiple spectral indices easily in Google Earth Engine](https://www.youtube.com/watch?v=b7lCNNJOfZY&ab_channel=OpenSourceRemoteSensing%26GIS)
 - [geodose video | How to Calculate Various Spectral Indices in Google Earth Engine Quickly](https://www.youtube.com/watch?v=Vkx-mh6Wr50&ab_channel=geodosevideo)
 - [MasterGIS | MasterGIS Days 2021 🌎: Procesamiento y visualización de datos geoespaciales con GEE](https://youtu.be/MU28078U14Y?t=1641) [Spanish]
+
+-----------------------------------
+
+## Tutorials
+
+### Python
+
+- [David Montero Loaiza | Python Built-in Types](https://spyndex.readthedocs.io/en/latest/tutorials/python_builtin.html)
+- [David Montero Loaiza | Numpy](https://spyndex.readthedocs.io/en/latest/tutorials/numpy.html)
+- [David Montero Loaiza | Pandas](https://spyndex.readthedocs.io/en/latest/tutorials/pandas.html)
+- [David Montero Loaiza | Xarray](https://spyndex.readthedocs.io/en/latest/tutorials/xarray.html)
+- [David Montero Loaiza | Geopandas](https://spyndex.readthedocs.io/en/latest/tutorials/geopandas.html)
+- [David Montero Loaiza | Dask](https://spyndex.readthedocs.io/en/latest/tutorials/dask.html)
+- [David Montero Loaiza | Earth Engine](https://spyndex.readthedocs.io/en/latest/tutorials/ee.html)
+- [David Montero Loaiza | Planetary Computer](https://spyndex.readthedocs.io/en/latest/tutorials/pc.html)
+
+### Google Earth Engine
+
+#### Python
+
+- [David Montero Loaiza | Computing Spectral Indices in Landsat 8](https://eemont.readthedocs.io/en/latest/tutorials/004-Computing-Spectral-Indices-Landsat-8.html)
+- [David Montero Loaiza | Computing Spectral Indices for MODIS](https://eemont.readthedocs.io/en/latest/tutorials/012-Spectral-Indices-MODIS-MOD09GA.html)
+- [David Montero Loaiza | Spectral Indices From the Awesome Spectral Indices for GEE](https://eemont.readthedocs.io/en/latest/tutorials/016-Spectral-Indices-From-Awesome-Spectral-Indices-List.html)
+- [David Montero Loaiza | Access to Awesome Spectral Indices v0.0.3](https://eemont.readthedocs.io/en/latest/tutorials/030-Awesome-Spectral-Indices-v003.html)
+- [David Montero Loaiza | Monthly Global kNDVI using eemont and wxee](https://eemont.readthedocs.io/en/latest/tutorials/032-Combining-eemont-wxee.html)
+- [David Montero Loaiza | Landsat-9](https://eemont.readthedocs.io/en/latest/tutorials/035-Landsat-9.html)
+- [Aaron Zuspan | Combining wxee and eemont](https://wxee.readthedocs.io/en/latest/examples/eemont.html)
+
+#### JavaScript
+
+- [David Montero Loaiza | Example 1: Exploring spectral indices](https://code.earthengine.google.com/6f438f939672318555b8e1ae55257020)
+- [David Montero Loaiza | Example 2: Computing One Index](https://code.earthengine.google.com/378462b0d7b6dd8e523e02b349e67508)
+- [David Montero Loaiza | Example 3: Computing Multiple Indices](https://code.earthengine.google.com/94523fdbc4ff80b77e76e7c05983c276)
+- [David Montero Loaiza | Example 4: Computing Kernel Indices](https://code.earthengine.google.com/45399b947d0b1db532f1d2e6dd86d42a)
+- [David Montero Loaiza | Example 5: Mapping Indices Over an Image Collection](https://code.earthengine.google.com/9c303e11f1c4a04a1c9c2dfbeaf2abee)
 
 -----------------------------------
 
