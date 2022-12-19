@@ -70,8 +70,6 @@
 
 ## Apps
 
-- [openEO Web Editor](https://github.com/Open-EO/openeo-web-editor) - Web-based UI for OpenEO. A wizard provides an easy way to generate products based on ASI.
-
 ### Streamlit
 
 - [Espectro](https://github.com/awesome-spectral-indices/espectro) - Official Streamlit Web App GitHub Repository [![Espectro](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/davemlz/espectro/main/espectro.py)
@@ -79,6 +77,10 @@
 ### Visualization
 
 - [LexCube](https://www.lexcube.org/?!s2flx_sen2flux_de-hai_l3a/kndvi/0-194/0-510/0-510) - Leipzig Explorer of Earth Data Cubes. Provides an interactive ASI example for a Sentinel-2 data cube.
+
+### Miscellaneous
+
+- [openEO Web Editor](https://github.com/Open-EO/openeo-web-editor) - Web-based UI for OpenEO. A wizard provides an easy way to generate products based on ASI.
 
 -----------------------------------
 
@@ -90,6 +92,10 @@
 - [Open Source Remote Sensing & GIS | GEE tutorial 3: Compute multiple spectral indices easily in Google Earth Engine](https://www.youtube.com/watch?v=b7lCNNJOfZY&ab_channel=OpenSourceRemoteSensing%26GIS)
 - [geodose video | How to Calculate Various Spectral Indices in Google Earth Engine Quickly](https://www.youtube.com/watch?v=Vkx-mh6Wr50&ab_channel=geodosevideo)
 - [MasterGIS | MasterGIS Days 2021 🌎: Procesamiento y visualización de datos geoespaciales con GEE](https://youtu.be/MU28078U14Y?t=1641) [Spanish]
+
+### Miscellaneous
+
+- [openEO | openEO Web Editor Wizard](https://www.youtube.com/watch?v=iAmybwE425k&ab_channel=openEO)
 
 -----------------------------------
 
