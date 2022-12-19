@@ -23,6 +23,7 @@
 - [Blogs](#blogs)
 - [Datasets](#datasets)
 - [Papers](#papers)
+- [Attribution](#attribution)
 
 -----------------------------------
 
@@ -157,3 +158,9 @@
 Identification of Deficient Forested Windbreaks in the
 Paraguayan Chaco](https://doi.org/10.3390/rs14174327) - **How to cite.** Kriese, J.; Hoeser, T.; Asam, S.; Kacic, P.; Da Ponte, E.; Gessner, U. Deep Learning on Synthetic Data Enables the Automatic Identification of Deficient Forested Windbreaks in the Paraguayan Chaco. Remote Sens. 2022, 14, 4327. https://doi.org/10.3390/rs14174327
 - [BUSINESS INTELLIGENCE THROUGH MACHINE LEARNING FROM SATELLITE REMOTE SENSING DATA](https://ir.lib.uth.gr/xmlui/bitstream/handle/11615/59406/25458.pdf) - **How to cite.** Kyriakos, C. 2022. BUSINESS INTELLIGENCE THROUGH MACHINE LEARNING FROM SATELLITE REMOTE SENSING DATA. Diploma Thesis, University of Thessaly.
+
+-----------------------------------
+
+## Attribution
+
+The repository banner was created on top of [this photo](https://www.pexels.com/es-es/foto/luces-oscuro-colorido-arcoiris-11734794/) by [Evie Shaffer](https://www.pexels.com/es-es/@evie-shaffer-1259279/).
