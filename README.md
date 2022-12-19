@@ -1,6 +1,14 @@
-# Awesome ASI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-### _A curated list of Awesome Spectral Indices (ASI) resources_
+<p align="center">
+  <a href="https://github.com/awesome-spectral-indices/awesome-ASI"><img src="https://github.com/awesome-spectral-indices/awesome-ASI/raw/main/awesome-asi.png" alt="Awesome Spectral Indices"></a>
+</p>
+<p align="center">
+    <em>A curated list of Awesome Spectral Indices (ASI) resources</em>
+</p>
+<p align="center">
+<a href="https://awesome.re" target="_blank">
+    <img src="https://awesome.re/badge.svg" alt="Awesome">
+</a>
+</p>
 
 ## Table of Contents
 
@@ -21,9 +29,9 @@
 ## Official Resources
 
 - [Awesome Spectral Indices](https://github.com/awesome-spectral-indices/awesome-spectral-indices) - Official GitHub Repository
-- [Espectro](https://github.com/awesome-spectral-indices/espectro) - Official Streamlit Web App GitHub Repository [![Espectro](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/davemlz/espectro/main/espectro.py)
-- [spectral](https://github.com/awesome-spectral-indices/spectral) - Official Google Earth Engine Module GitHub Repository
-- [spyndex](https://github.com/awesome-spectral-indices/spyndex) - Official Python Package GitHub Repository
+- [Espectro](https://github.com/awesome-spectral-indices/espectro) - Official Streamlit Web App [![Espectro](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/davemlz/espectro/main/espectro.py)
+- [spectral](https://github.com/awesome-spectral-indices/spectral) - Official Google Earth Engine Module
+- [spyndex](https://github.com/awesome-spectral-indices/spyndex) - Official Python Package
 
 -----------------------------------
 
