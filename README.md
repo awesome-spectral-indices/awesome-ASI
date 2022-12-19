@@ -70,6 +70,8 @@
 
 ## Apps
 
+- [openEO Web Editor](https://github.com/Open-EO/openeo-web-editor) - Web-based UI for OpenEO. A wizard provides an easy way to generate products based on ASI.
+
 ### Streamlit
 
 - [Espectro](https://github.com/awesome-spectral-indices/espectro) - Official Streamlit Web App GitHub Repository [![Espectro](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/davemlz/espectro/main/espectro.py)
