@@ -146,6 +146,7 @@
 - [Akis Karagiannis | Spectral Reflectance Newsletter #5
 ](https://medium.com/spectral-reflectance/spectral-reflectance-newsletter-5-e38d99fd582a)
 - [scicrop | O uso dos índices vegetativos e do sensoriamento remoto na agricultura](https://scicrop.com/2022/03/01/o-uso-dos-indices-vegetativos-e-do-sensoriamento-remoto-na-agricultura/) [Portuguese]
+- [Cursos de Teledetección | Lanzamiento de una nueva versión de "Awesome Spectral Indices" para Google Earth Engine (GEE)](https://www.cursosteledeteccion.com/lanzamiento-de-una-nueva-version-de-awesome-spectral-indices-para-google-earth-engine-gee/) [Español]
 
 -----------------------------------
 
