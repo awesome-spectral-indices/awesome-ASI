@@ -111,6 +111,7 @@
 - [David Montero Loaiza | Dask](https://spyndex.readthedocs.io/en/latest/tutorials/dask.html)
 - [David Montero Loaiza | Earth Engine](https://spyndex.readthedocs.io/en/latest/tutorials/ee.html)
 - [David Montero Loaiza | Planetary Computer](https://spyndex.readthedocs.io/en/latest/tutorials/pc.html)
+- [Digital Earth Africa | Calculating band indices with Spyndex packages](https://docs.digitalearthafrica.org/en/latest/sandbox/notebooks/Frequently_used_code/Calculating_band_indices_Spyndex.html)
 
 ### Google Earth Engine
 
