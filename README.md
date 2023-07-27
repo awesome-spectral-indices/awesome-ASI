@@ -22,6 +22,7 @@
 - [Podcasts](#podcasts)
 - [Blogs](#blogs)
 - [Datasets](#datasets)
+- [Companies and Software](#companies-and-software)
 - [Papers](#papers)
 - [Attribution](#attribution)
 
@@ -154,6 +155,13 @@
 ## Datasets
 
 - [UniNa - Machine Learning 22/23 - MiniContest n1 | Above Ground Biomass estimation from Sentinel-2](https://www.kaggle.com/competitions/unina-machine-learning-2223/data)
+
+-----------------------------------
+
+## Companies and Software
+
+- [Agriobs | "Agriobs is an application that accesses multiple sources of imagery with dynamic presentation and reporting tools."](https://agriobs.com/)
+- [OpenEO | "openEO develops an open API to connect R, Python, JavaScript and other clients to big Earth observation cloud back-ends in a simple and unified way-"](https://openeo.org/)
 
 -----------------------------------
 
