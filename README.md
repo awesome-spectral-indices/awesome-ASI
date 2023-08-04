@@ -169,6 +169,7 @@
 
 ### Official Papers
 
+- [A standardized catalogue of spectral indices to advance the use of remote sensing in Earth system research](https://www.nature.com/articles/s41597-023-02096-0) - **How to cite.** Montero, D., Aybar, C., Mahecha, M. D., Martinuzzi, F., Söchting, M., and Wieneke, S.: A standardized catalogue of spectral indices to advance the use of remote sensing in Earth system research, Scientific Data 10, 197, https://doi.org/10.1038/s41597-023-02096-0, 2023.
 - [spectral: Awesome Spectral Indices deployed via the Google Earth Engine JavaScript API](https://doi.org/10.5194/isprs-archives-XLVIII-4-W1-2022-301-2022) - **How to cite.** Montero, D., Aybar, C., Mahecha, M. D., and Wieneke, S.: SPECTRAL: AWESOME SPECTRAL INDICES DEPLOYED VIA THE GOOGLE EARTH ENGINE JAVASCRIPT API, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-4/W1-2022, 301–306, https://doi.org/10.5194/isprs-archives-XLVIII-4-W1-2022-301-2022, 2022.
 
 ### ASI Citations
