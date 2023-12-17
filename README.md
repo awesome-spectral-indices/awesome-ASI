@@ -14,6 +14,7 @@
 
 - [Official Resources](#official-resources)
 - [Python](#python)
+- [Julia](#julia)
 - [R](#r)
 - [Google Earth Engine](#google-earth-engine)
 - [Apps](#apps)
@@ -34,6 +35,7 @@
 - [Espectro](https://github.com/awesome-spectral-indices/espectro) - Official Streamlit Web App [![Espectro](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/davemlz/espectro/main/espectro.py)
 - [spectral](https://github.com/awesome-spectral-indices/spectral) - Official Google Earth Engine Module
 - [spyndex](https://github.com/awesome-spectral-indices/spyndex) - Official Python Package
+- [SpectralIndices.jl](https://github.com/awesome-spectral-indices/SpectralIndices.jl) - Official Julia Package
 
 -----------------------------------
 
@@ -42,6 +44,11 @@
 - [eoreader](https://github.com/sertit/eoreader) - Remote-sensing opensource python library reading optical and SAR sensors, loading and stacking bands, clouds, DEM and spectral indices in a sensor-agnostic way.
 - [openeo-python-client](https://github.com/Open-EO/openeo-python-client) - Python client API for OpenEO. ASI provided as experimental feature.
 - [spyndex](https://github.com/awesome-spectral-indices/spyndex) - Official ASI Python Package. Spectral Indices can be computed for Python objects with third party libraries (e.g., `numpy`, `pandas`, `xarray`, `dask`).
+
+-----------------------------------
+
+## Julia
+- [SpectralIndices.jl](https://github.com/awesome-spectral-indices/SpectralIndices.jl) - Official ASI Julia Package. Spectral Indices can be computed for Python objects with third party libraries (e.g., `DataFrames`, `YAXArrays`).
 
 -----------------------------------
 
